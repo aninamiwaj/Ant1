@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "git hub trigger!" );
+        System.out.println( "polling change test!" );
     }
 }
